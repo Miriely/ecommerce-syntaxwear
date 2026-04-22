@@ -43,6 +43,8 @@ ol {
 ul,
 ol {
   list-style: none;
+  padding: 0;
+  margin: 0;
 }
 
 /* Set images and media to a better default */
