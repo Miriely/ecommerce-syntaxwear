@@ -48,14 +48,6 @@ ecommerce-syntaxwear/
 └── index.html            # Estrutura principal da página
 ```
 
-## 💻 Como Rodar o Projeto
-
-1. Clone o repositório ou baixe os arquivos.
-2. Certifique-se de manter a estrutura de pastas conforme apresentada.
-3. Abra o arquivo `index.html` em qualquer navegador moderno.
-
-*Dica: Para uma melhor experiência de desenvolvimento, utilize a extensão "Live Server" no VS Code.*
-
 ## 🎨 Identidade Visual
 
 - **Fonte Principal:** Ubuntu (Sans-serif)
