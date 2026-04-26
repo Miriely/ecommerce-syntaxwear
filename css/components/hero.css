@@ -56,7 +56,11 @@
     }
 
     .hero-content .hero-subtitle{
-        max-width: 33px;
+        font-size: 1.25rem;
+    }
+
+    .hero-content{
+        max-width: 330px;
         margin: 0 auto;
     }
 

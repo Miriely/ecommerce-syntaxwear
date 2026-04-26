@@ -86,7 +86,7 @@
         "model sneaker-color" 
         "model sneaker-silver"
         "sneaker-purple sneaker-purple"; 
-        max-width: 100px;
+        max-width: 100%;
         gap: 0.625rem;
     }
 
@@ -95,7 +95,7 @@
     }
 
     .model{
-        min-height: 190px;
+        min-height: 370px;
     }
 
     .sneaker-white, .sneaker-purple{
